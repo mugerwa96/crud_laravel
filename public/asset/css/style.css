@@ -1,0 +1,10 @@
+*{
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.form-control:focus{
+  border-color: #86b7fe;
+  outline: 0;
+  box-shadow:none
+}
